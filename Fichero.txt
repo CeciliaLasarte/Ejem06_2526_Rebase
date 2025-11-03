@@ -4,11 +4,10 @@ Primera modificación
 Primera modificación
 Segunda modificación
 Tercera modificación
->>>>>>> 5802a37 (Tercera modificación)
 <<<<<<< HEAD
 =======
 
 Cuarta modificación
 Quinta modificación
 Sexta modificación
->>>>>>> 96554b5 (Sexta modificación)
+
